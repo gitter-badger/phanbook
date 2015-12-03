@@ -1,5 +1,7 @@
 # Phanbook
 
+[![Join the chat at https://gitter.im/duythien/phanbook](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/duythien/phanbook?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [Phanbook](http://phanbook.com) is the next-generation Q&A and forum software that makes online discussion, question and answer site for professional and enthusiast people. Also the name Phanbook is mean - Phan(Phalcon PHP)book(the your note book)
 
 [Live Demo](http://phanbook.com) -
